@@ -32,7 +32,8 @@
 
 > * [sample-randomuser-api](sample-randomuser-api.js)
 
-### API
+### Tableau des scripts
+
 Nom du script | Description | Source |
 |---|---|---|
 | [sample-randomuser-api](https://github.com/neliville/tuto-javascript/blob/master/sample-randomuser-api.js) | code qui utilise l'objet fetch de JavaScript pour récupérer des données depuis l'API du site [randomuser.me](https://randomuser.me/), puis affiche ces données sous forme de tableau dans la page HTML | https://randomuser.me/ |
